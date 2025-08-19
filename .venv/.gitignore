@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.vscode/
+.streamlit/secrets.toml
+weights_*.csv
+*.pyc
